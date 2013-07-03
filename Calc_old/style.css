@@ -1,0 +1,43 @@
+
+.input-place input{
+	width: 40px;
+
+}
+
+.operation {
+	margin: 10px 40px;
+}
+
+.operation span{
+	border: 1px solid black;
+	display: inline-block;
+	font-size: 24px;
+	font-weight: bold;
+	height: 30px;
+	padding-top: 4px;
+	text-align: center;
+	width: 35px;
+}
+.operation span:hover{
+	cursor: pointer;
+}
+
+#equal{
+	display: block;
+	margin-top: 3px;
+	width: 158px;
+}
+
+.wrapper{
+	width: 240px;
+	border: 1px solid black;
+	padding: 10px;
+}
+
+.result input{
+	width: 120px;
+}
+
+.selected {
+	background: gray;
+}
